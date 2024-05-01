@@ -1,0 +1,4 @@
+export const SIGN_IN = 'SIGN_IN';
+export const SIGN_OUT = 'SIGN_OUT';
+export const UPDATE_AGREEMENT = 'UPDATE_AGREEMENT';
+export const CREATE_USER_PASSWORD = 'CREATE_USER_PASSWORD';

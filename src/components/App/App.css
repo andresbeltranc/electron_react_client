@@ -1,0 +1,13 @@
+.MainApp{
+    background-color:rgba(8, 8, 8, 0.884);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    overflow: hidden;
+}
+.app-content{
+    position: absolute;
+    top:5%;
+    height: 95%;
+    width: 100%;
+}

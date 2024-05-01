@@ -1,0 +1,26 @@
+.main-page{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+.main-content{
+    position: absolute;
+    height:100%;
+    width: 91%;
+    left: 9%;
+    background-color: darkslategray;
+}
+.title{
+    position: absolute;
+    width: 100%;
+    height: 7%;
+    text-align: center;
+    color: white;
+}
+.registed-faces{
+    position: absolute;
+    width:100%;
+    height: 93%;
+    top: 7%;
+    background-color: darkslategray;
+}

@@ -1,0 +1,43 @@
+.title{
+    position: absolute;
+    width: 100%;
+    height: 7%;
+    text-align: center;
+    color: white;
+}
+.camera_content{
+    position: absolute;
+    width: 75%;
+    top:  8%;
+    left: 12.5%;
+    height: 55%;
+    background-color: black;
+    overflow: auto;
+}
+.select_content{
+    position: absolute;
+    width: 75%;
+    top:  64%;
+    left: 12.5%;
+    height: 10%;
+
+}
+.button_content{
+    position: absolute;
+    background-color: #2bb9ea;
+    color:white ;
+    font-size: 1.4em;
+    top:100%;
+    width: 100%;
+    height: 100%;
+    border-radius: 0.4em;
+    outline:none;
+    border: none;
+    font-weight: lighter;
+
+}
+.camera_content video{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
